@@ -43,7 +43,7 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-REPO = "lukebarousse/dbt_Analytics_Engineering_Course"
+REPO = "Rajib-Ahmed-Hemel/dbt-duckdb-pipeline"
 TAG = "dataset-v1"
 BASE = f"https://github.com/{REPO}/releases/download/{TAG}"
 
